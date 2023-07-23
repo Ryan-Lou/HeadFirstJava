@@ -12,3 +12,5 @@ GitHub客户端Push测试
 修复了第五章程序，连续击中同一个位置直接获胜的bug。
 
 更新第六章，完成最终版DotCom的测试程序DotComBust
+
+完成第六章，完成DotCom最终版
