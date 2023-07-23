@@ -4,7 +4,11 @@ HeadFirstJava学习代码
 GitHub客户端Push测试
 
 第三章完成
+
 第四章完成
+
 第五章完成
+
 修复了第五章程序，连续击中同一个位置直接获胜的bug。
+
 更新第六章，完成最终版DotCom的测试程序DotComBust
